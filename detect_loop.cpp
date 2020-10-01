@@ -56,7 +56,7 @@ int main()
     push(&head, 20);
     push(&head, 4);
     push(&head, 15);
-    push(&head, 10);
+    push(&head, 20);
  
     /* Create a loop for testing */
     head->next->next->next->next = head;
